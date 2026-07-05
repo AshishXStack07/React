@@ -26,3 +26,6 @@ copy of Real Dom --> virtual Dom
 
 
 IMPORT && EXPORT
+
+
+.render(functional component calling)
