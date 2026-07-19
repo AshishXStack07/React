@@ -8,6 +8,9 @@ const Contact = () => {
       <p id="para">you have clicked{count}</p>
       <button id ="btn" onClick={()=>{ setCount(count+1)
       }}>Click me</button>
+      <button id ='decrese' onClick={()=>{
+        setCount(count-1)
+      }}>decrease</button>
     </div>
   )
 }
