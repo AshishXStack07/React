@@ -32,4 +32,23 @@ IMPORT && EXPORT
 
 
 
-server: http://127.0.0.1:5173/
+server: http://127.0.0.1:5173/  
+
+
+
+
+rafce (react arrow function export componnent) extension es7 bioler plate
+
+tafc - typescript
+  component is function jine hum jsx ki trah call krte
+
+
+
+
+
+
+  default export and const export
+
+
+
+  use state hook is to extract funcationalites from react think like hook lga hai ek train p hai with that hook tum bhi trainke speed yani functionalites ko access kr pare hoge
